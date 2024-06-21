@@ -1,2 +1,2 @@
 # LLM-Bit-By-Bit
-My journy of learning LLM concepts 
+My journey of learning LLM concepts & hands-on projects
